@@ -4,6 +4,7 @@ This practical problem-solving project was created for the course *Cloud Computi
 ## Project Description
 
 ## Architecture
+![Architecture](images/architecture.png)
 
 ## Cloud Services
 The entire project is built upon AWS Cloud Services and uses the following services:
