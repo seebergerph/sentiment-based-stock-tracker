@@ -2,6 +2,7 @@
 This practical problem-solving project was created for the course *Cloud Computing* at the RMIT University.
 
 ## Project Description
+The aim of this project was to develop a simple but informative web application which enables a user to track stocks of companies combined with the sentiment analysis of tweets about these companies, respectively. This sentiment analysis can determine the nature of the social view about the corresponding companies and whether the current global situation can influence the tracked stocks positively or negatively. The proposed web application can process tweets in real time, which can be useful to people who want to be always updated about the performance of their stock’s portfolio depending on the news and people’s thoughts around the world. For the accomplishment of this idea, we used several services from the provider Amazon Web Services (AWS) which enables the real time processing of vast amounts of tweets while ensuring the scalability and stability of the web application.
 
 ## Architecture
 ![Architecture](images/architecture.png)
