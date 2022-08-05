@@ -1,4 +1,7 @@
 # Stock Tracker with Twitter Analysis
+
+(student project)
+
 This practical problem-solving project was created for the course *Cloud Computing* at the RMIT University.
 
 ## Project Description
