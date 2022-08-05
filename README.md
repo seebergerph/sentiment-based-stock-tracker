@@ -41,12 +41,12 @@ Inspirations and code references used for this project:
 
 - [AI-Driven Social Media Dashboard](https://github.com/amazon-archives/ai-driven-social-media-dashboard)
 
-***Financial Data API***
+***Financial Data API:***
 
 - [Alpha Vantage PHP Client](https://github.com/kokspflanze/alpha-vantage-api) *(Adapted to Twelve Data)*
 - [Twelve Data](https://twelvedata.com/)
 
-***Stock Timeseries Visualization***
+***Stock Timeseries Visualization:***
 
 - [Historical Price Charts with D3.js](https://github.com/wentjun/d3-historical-prices)
 - [Relevant Tutorial](https://www.freecodecamp.org/news/how-to-build-historical-price-charts-with-d3-js-72214aaf6ba3/)
